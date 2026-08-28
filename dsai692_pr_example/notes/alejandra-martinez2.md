@@ -1,0 +1,1 @@
+I reinforced my knowledge on collaborating with git. This helped me practice the commands that I had forgotten. 
